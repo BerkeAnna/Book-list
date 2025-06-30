@@ -66,7 +66,7 @@ public class FileReadingWithSlug {
      public static void writeToFile(String[] items, String outputPath) {
         try (FileWriter writer = new FileWriter(outputPath)) {
             for (String item : items) {
-                writer.write(item + System.lineSeparator());
+               writer.write("https://moly.hu/konyvek/" + item + System.lineSeparator());
             }
             System.out.println("Sikeresen kiírva a fájlba: " + outputPath);
         } catch (IOException e) {
