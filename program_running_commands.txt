@@ -1,0 +1,4 @@
+javac Main.java FileReading.java
+
+
+java Main

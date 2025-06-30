@@ -1,0 +1,789 @@
+<ul role="presentation" style="margin-top: 0px; margin-bottom: 0px;"><li class="selected active"><a role="option" class="dropdown-item active selected" id="bs-select-1-0" tabindex="0" aria-setsize="258" aria-posinset="1" aria-selected="true"><span class="text">Kérjük válasszon</span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-1" tabindex="0" aria-setsize="258" aria-posinset="2"><span class="text">
+                                                                                                                                    Alexandra Bracken - 
+                                                                                        Az idő vándorai (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-2" tabindex="0" aria-setsize="258" aria-posinset="3"><span class="text">
+                                                                                                                                    Chanda Hahn - 
+                                                                                        Tündérkönyv (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-3" tabindex="0" aria-setsize="258" aria-posinset="4"><span class="text">
+                                                                                                                                    Michelle Cuevas - 
+                                                                                        Egy képzeletbeli barát kalandjai (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-4" tabindex="0" aria-setsize="258" aria-posinset="5"><span class="text">
+                                                                                                                                    Jamie McGuire - 
+                                                                                        Gyönyörű lángolás (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-5" tabindex="0" aria-setsize="258" aria-posinset="6"><span class="text">
+                                                                                                                                    Jennifer E. Smith - 
+                                                                                        Ilyen a boldogság (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-6" tabindex="0" aria-setsize="258" aria-posinset="7"><span class="text">
+                                                                                                                                    Madeleine Roux - 
+                                                                                        Sanctum - A rejtélyes társulat (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-7" tabindex="0" aria-setsize="258" aria-posinset="8"><span class="text">
+                                                                                                                                    Melissa Grey - 
+                                                                                        Az árny órája (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-8" tabindex="0" aria-setsize="258" aria-posinset="9"><span class="text">
+                                                                                                                                    Mindy Mejia - 
+                                                                                        Amit csak akarsz (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-9" tabindex="0" aria-setsize="258" aria-posinset="10"><span class="text">
+                                                                                                                                    Vivi Greene - 
+                                                                                        Sing! (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-10" tabindex="0"><span class="text">
+                                                                                                                                    Wendy Higgins - 
+                                                                                        Angyali kísértés (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-11" tabindex="0"><span class="text">
+                                                                                                                                    Jamie McGuire, 
+                                                                                            Teresa Mummert - 
+                                                                                        Sweet Nothing - Édes semmiség (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-12" tabindex="0"><span class="text">
+                                                                                                                                    Lucy Keating - 
+                                                                                        Dreamology - Álomgyár (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-13" tabindex="0"><span class="text">
+                                                                                                                                    Melissa Landers - 
+                                                                                        Összefonódva (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-14" tabindex="0"><span class="text">
+                                                                                                                                    Abbi Glines - 
+                                                                                        A jövőm (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-15" tabindex="0"><span class="text">
+                                                                                                                                    Amy Tintera - 
+                                                                                        Rebel - Az új kezdet (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-16" tabindex="0"><span class="text">
+                                                                                                                                    John Corey Whaley - 
+                                                                                        Nagyon logikátlan barátság (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-17" tabindex="0"><span class="text">
+                                                                                                                                    Kerry Drewery - 
+                                                                                        7. cella (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-18" tabindex="0"><span class="text">
+                                                                                                                                    Anna Banks - 
+                                                                                        Nemezis – Szeretett ellenség (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-19" tabindex="0"><span class="text">
+                                                                                                                                    Ryan Graudin - 
+                                                                                        Invictus - Az idő gyermeke (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-20" tabindex="0"><span class="text">
+                                                                                                                                    Rosie Walsh - 
+                                                                                        Hét nap szerelem (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-21" tabindex="0"><span class="text">
+                                                                                                                                    Cynthia Hand - 
+                                                                                        Vigyázz, Holly Chase! (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-22" tabindex="0"><span class="text">
+                                                                                                                                    Anna Banks - 
+                                                                                        Szövetség - A szerelem ereje (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-23" tabindex="0"><span class="text">
+                                                                                                                                    Clayton Dhonielle - 
+                                                                                        The Belles – A szépség ára (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-24" tabindex="0"><span class="text">
+                                                                                                                                    Clayton Dhonielle - 
+                                                                                        The Belles – A szépség ára (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-25" tabindex="0"><span class="text">
+                                                                                                                                    Kai Meyer - 
+                                                                                        A sötétség oldalai (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-26" tabindex="0"><span class="text">
+                                                                                                                                    Michael Morpurgo - 
+                                                                                        Flamingó fiú (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-27" tabindex="0"><span class="text">
+                                                                                                                                    Holland Sara - 
+                                                                                        Everless – A varázslónő és az alkimista (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-28" tabindex="0"><span class="text">
+                                                                                                                                    Natalie Parker - 
+                                                                                        Seafire - Lángoló tenger (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-29" tabindex="0"><span class="text">
+                                                                                                                                    Julia Whelan - 
+                                                                                        Egy év veled (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-30" tabindex="0"><span class="text">
+                                                                                                                                    David Levithan - 
+                                                                                        Majd egy nap (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-31" tabindex="0"><span class="text">
+                                                                                                                                    Emily R. King - 
+                                                                                        A századik királyné (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-32" tabindex="0"><span class="text">
+                                                                                                                                    Laura Steven - 
+                                                                                        Minden, csak nem oké (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-33" tabindex="0"><span class="text">
+                                                                                                                                    Will Darbyshire - 
+                                                                                        Modern love - a szerelem örök (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-34" tabindex="0"><span class="text">
+                                                                                                                                    Jamie McGuire - 
+                                                                                        Gyönyörű pillanat (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-35" tabindex="0"><span class="text">
+                                                                                                                                    Geoff Rodkey - 
+                                                                                        Claudia és James elnökjelöltek lesznek (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-36" tabindex="0"><span class="text">
+                                                                                                                                    Brendan Reichs - 
+                                                                                        Nemezis-projekt – Az első szakasz (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-37" tabindex="0"><span class="text">
+                                                                                                                                    Jamie McGuire - 
+                                                                                        Gyönyörű búcsúzás (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-38" tabindex="0"><span class="text">
+                                                                                                                                    Jamie McGuire - 
+                                                                                        Gyönyörű búcsúzás (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-39" tabindex="0"><span class="text">
+                                                                                                                                    Kass Morgan - 
+                                                                                        Hazatérés (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-40" tabindex="0"><span class="text">
+                                                                                                                                    Kerry Drewery - 
+                                                                                        7. nap (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-41" tabindex="0"><span class="text">
+                                                                                                                                    LeLe Pons, 
+                                                                                            Melissa de la Cruz - 
+                                                                                        Éld túl a sulit! - Egy online díva naplója (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-42" tabindex="0"><span class="text">
+                                                                                                                                    Madeleine Roux - 
+                                                                                        Catacomb - Az eltemetett múlt (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-43" tabindex="0"><span class="text">
+                                                                                                                                    Pauline Peters - 
+                                                                                        A rubinvörös kamra (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-44" tabindex="0"><span class="text">
+                                                                                                                                    Alsaid Adi - 
+                                                                                        Soha mindig néha (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-45" tabindex="0"><span class="text">
+                                                                                                                                    Emily Elgar - 
+                                                                                        Tökéletes hazugság (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-46" tabindex="0"><span class="text">
+                                                                                                                                    Jennifer E. Smith - 
+                                                                                        Vajon ránk talál a szerencse? (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-47" tabindex="0"><span class="text">
+                                                                                                                                    Jennifer Niven - 
+                                                                                        Veled teljes a világ (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-48" tabindex="0"><span class="text">
+                                                                                                                                    Stacey Lee - 
+                                                                                        A szerelem illata (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-49" tabindex="0"><span class="text">
+                                                                                                                                    Thomas Olde Heuvelt - 
+                                                                                        HEX - Egy boszorkány bosszúja (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-50" tabindex="0"><span class="text">
+                                                                                                                                    Kendall Kulper - 
+                                                                                        A mágikus tolvaj (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-51" tabindex="0"><span class="text">
+                                                                                                                                    Tamara Ireland Stone - 
+                                                                                        Klikk - Találd meg a párod! (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-52" tabindex="0"><span class="text">
+                                                                                                                                    Cynthia Hand, 
+                                                                                            Brodi Ashton, 
+                                                                                            Jodi Meadows - 
+                                                                                        Lady Jane (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-53" tabindex="0"><span class="text">
+                                                                                                                                    Trish Cook - 
+                                                                                        Éjjeli napfény (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-54" tabindex="0"><span class="text">
+                                                                                                                                    Howard A.G. - 
+                                                                                        RoseBlood – A Rózsa Vére (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-55" tabindex="0"><span class="text">
+                                                                                                                                    Neil Patrick Harris - 
+                                                                                        A bájos kis bűvész (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-56" tabindex="0"><span class="text">
+                                                                                                                                    Julie Murphy - 
+                                                                                        Dumplin' - Így kerek az élet - Filmes borítóval (puhatáblás (filmes borító)) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-57" tabindex="0"><span class="text">
+                                                                                                                                    Hannah Capin - 
+                                                                                        Halott királynők klubja (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-58" tabindex="0"><span class="text">
+                                                                                                                                    Christine Lynn Herman - 
+                                                                                        Az elemésztő homály (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-59" tabindex="0"><span class="text">
+                                                                                                                                    Alwyn Hamilton - 
+                                                                                        A vég hősnője (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-60" tabindex="0"><span class="text">
+                                                                                                                                    Jennifer Donnelly - 
+                                                                                        Stepsister - Egy sötét mese (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-61" tabindex="0"><span class="text">
+                                                                                                                                    Roger McNamee - 
+                                                                                        Zuckolva - Út a Facebook-katasztrófa felé (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-62" tabindex="0"><span class="text">
+                                                                                                                                    Julie Murphy - 
+                                                                                        Puddin' - Változtass a szabályokon! (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-63" tabindex="0"><span class="text">
+                                                                                                                                    Hayley Chewins - 
+                                                                                        Aranyfakasztók (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-64" tabindex="0"><span class="text">
+                                                                                                                                    Morgan Matson - 
+                                                                                        Save the Date - A nagy nagy nap (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-65" tabindex="0"><span class="text">
+                                                                                                                                    Morgan Matson - 
+                                                                                        Save the Date - A nagy nagy nap_ (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-66" tabindex="0"><span class="text">
+                                                                                                                                    Dan Gemeinhart - 
+                                                                                        Egy kutyus két élete (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-67" tabindex="0"><span class="text">
+                                                                                                                                    Jess Rothenberg - 
+                                                                                        The Kingdom - Boldogan, amíg meg nem... (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-68" tabindex="0"><span class="text">
+                                                                                                                                    Broadway Alice - 
+                                                                                        Spark (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-69" tabindex="0"><span class="text">
+                                                                                                                                    Nina Moreno - 
+                                                                                        Ne randizz Rosa Santosszal! (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-70" tabindex="0"><span class="text">
+                                                                                                                                    Stuart Turton - 
+                                                                                        Evelyn Hardcastle 7 halála (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-71" tabindex="0"><span class="text">
+                                                                                                                                    Molly Brooks - 
+                                                                                        Abigail és Tabita – Zűr az űrben (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-72" tabindex="0"><span class="text">
+                                                                                                                                    Wendy Higgins - 
+                                                                                        A csóklista (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-73" tabindex="0"><span class="text">
+                                                                                                                                    Kai Meyer - 
+                                                                                        A kezdet könyve (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-74" tabindex="0"><span class="text">
+                                                                                                                                    Micol Ostow - 
+                                                                                        Riverdale – A kezdet (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-75" tabindex="0"><span class="text">
+                                                                                                                                    A. M. Strickland - 
+                                                                                        A fekete ajtó (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-76" tabindex="0"><span class="text">
+                                                                                                                                    Alyssa Sheinmel - 
+                                                                                        Felelsz vagy mersz? (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-77" tabindex="0"><span class="text">
+                                                                                                                                    Amélie Wen Zhao - 
+                                                                                        Blood Heir – A vér hercegnője (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-78" tabindex="0"><span class="text">
+                                                                                                                                    Camryn Garrett - 
+                                                                                        Pozitív (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-79" tabindex="0"><span class="text">
+                                                                                                                                    E. G. Scott - 
+                                                                                        The Woman Inside - A másik nő (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-80" tabindex="0"><span class="text">
+                                                                                                                                    Erin Stewart - 
+                                                                                        Sebek szárnyán (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-81" tabindex="0"><span class="text">
+                                                                                                                                    Jack Fairweather - 
+                                                                                        Az önkéntes (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-82" tabindex="0"><span class="text">
+                                                                                                                                    Cody Epstein Jennifer - 
+                                                                                        Az el nem küldött levelek (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-83" tabindex="0"><span class="text">
+                                                                                                                                    Jessica Vallance - 
+                                                                                        Charlotte (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-84" tabindex="0"><span class="text">
+                                                                                                                                    Ted Caplan, 
+                                                                                            Jenni Hendriks - 
+                                                                                        nemterhes (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-85" tabindex="0"><span class="text">
+                                                                                                                                    Joey Graceffa - 
+                                                                                        Az éden gyermekei (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-86" tabindex="0"><span class="text">
+                                                                                                                                    Kristin Harmel - 
+                                                                                        A borász felesége (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-87" tabindex="0"><span class="text">
+                                                                                                                                    Laura Kneidl - 
+                                                                                        Ne! Érints meg! (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-88" tabindex="0"><span class="text">
+                                                                                                                                    Sibson Laura - 
+                                                                                        Minden szétesik (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-89" tabindex="0"><span class="text">
+                                                                                                                                    Rob Hart - 
+                                                                                        A vállalat (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-90" tabindex="0"><span class="text">
+                                                                                                                                    Rosaria Munda - 
+                                                                                        A tűz szülötte (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-91" tabindex="0"><span class="text">
+                                                                                                                                    Stephanie Perkins - 
+                                                                                        Valaki van a házadban (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-92" tabindex="0"><span class="text">
+                                                                                                                                    Stephen Chbosky - 
+                                                                                        Képzelt barát (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-93" tabindex="0"><span class="text">
+                                                                                                                                    Zara Lisbon - 
+                                                                                        Plasztikcsaj (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-94" tabindex="0"><span class="text">
+                                                                                                                                    Micol Ostow - 
+                                                                                        Riverdale - Menekülés (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-95" tabindex="0"><span class="text">
+                                                                                                                                    Krystal Sutherland - 
+                                                                                        A szerelem kémiája - Filmes borítóval (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-96" tabindex="0"><span class="text">
+                                                                                                                                    Kester Grant - 
+                                                                                        A csodák udvara (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-97" tabindex="0"><span class="text">
+                                                                                                                                    Johnson Lora Beth - 
+                                                                                        Istennő a gépezetben (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-98" tabindex="0"><span class="text">
+                                                                                                                                    Micol Ostow - 
+                                                                                        Riverdale  - A mulatság (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-99" tabindex="0"><span class="text">
+                                                                                                                                    Namina Forna - 
+                                                                                        The Gilded Ones - Aranyló vér (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-100" tabindex="0"><span class="text">
+                                                                                                                                    Acton Helly - 
+                                                                                        Szinglik a Polcon (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-101" tabindex="0"><span class="text">
+                                                                                                                                    Broadway Alice - 
+                                                                                        Scar (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-102" tabindex="0"><span class="text">
+                                                                                                                                    Camryn Garrett - 
+                                                                                        Off the Record - Az elhallgatott igazság (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-103" tabindex="0"><span class="text">
+                                                                                                                                    Cynthia Hand - 
+                                                                                        Angyalfény (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-104" tabindex="0"><span class="text">
+                                                                                                                                    Carolyn Mackler, 
+                                                                                            Jay Asher - 
+                                                                                        Kezünkben a jövőnk (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-105" tabindex="0"><span class="text">
+                                                                                                                                    Jamie McGuire - 
+                                                                                        Gyönyörű esküvő (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-106" tabindex="0"><span class="text">
+                                                                                                                                    Cynthia Hand - 
+                                                                                        Angyalnyár (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-107" tabindex="0"><span class="text">
+                                                                                                                                    Robin LaFevers - 
+                                                                                        Gyilkos kegyelem (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-108" tabindex="0"><span class="text">
+                                                                                                                                    Niall Leonard - 
+                                                                                        Zúzógép (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-109" tabindex="0"><span class="text">
+                                                                                                                                    Jennifer E. Smith - 
+                                                                                        Milyen is a boldogság? (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-110" tabindex="0"><span class="text">
+                                                                                                                                    Peter Heller - 
+                                                                                        Kutya csillagkép (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-111" tabindex="0"><span class="text">
+                                                                                                                                    Peter Heller - 
+                                                                                        Kutya csillagkép (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-112" tabindex="0"><span class="text">
+                                                                                                                                    Maria Semple - 
+                                                                                        Hová tűntél, Bernadette? (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-113" tabindex="0"><span class="text">
+                                                                                                                                    Gavin Extence - 
+                                                                                        Az univerzum és Alex Woods (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-114" tabindex="0"><span class="text">
+                                                                                                                                    Morgan Rice - 
+                                                                                        A hősök küldetése (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-115" tabindex="0"><span class="text">
+                                                                                                                                    Rebecca Donovan - 
+                                                                                        Visszafojtott lélegzet (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-116" tabindex="0"><span class="text">
+                                                                                                                                    Rebecca Donovan - 
+                                                                                        Visszafojtott lélegzet (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-117" tabindex="0"><span class="text">
+                                                                                                                                    Jennifer E. Smith - 
+                                                                                        Létezik térkép a szerelemhez? (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-118" tabindex="0"><span class="text">
+                                                                                                                                    Cheryl Klam, 
+                                                                                            Claudia Gabel - 
+                                                                                        Káprázat (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-119" tabindex="0"><span class="text">
+                                                                                                                                    Elizabeth Richards - 
+                                                                                        Főnix (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-120" tabindex="0"><span class="text">
+                                                                                                                                    Jeannette Walls - 
+                                                                                        Az Ezüst Csillag (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-121" tabindex="0"><span class="text">
+                                                                                                                                    Jeannette Walls - 
+                                                                                        Az Ezüst Csillag (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-122" tabindex="0"><span class="text">
+                                                                                                                                    Janet Evanovich, 
+                                                                                            Lee Goldberg - 
+                                                                                        A nagy zsákmány (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-123" tabindex="0"><span class="text">
+                                                                                                                                    Mark Pryor - 
+                                                                                        A kriptatolvaj (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-124" tabindex="0"><span class="text">
+                                                                                                                                    Chanda Hahn - 
+                                                                                        Bűbájtalan (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-125" tabindex="0"><span class="text">
+                                                                                                                                    Jamie McGuire - 
+                                                                                        Red Hill (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-126" tabindex="0"><span class="text">
+                                                                                                                                    Jamie McGuire - 
+                                                                                        Gyönyörű tévedés (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-127" tabindex="0"><span class="text">
+                                                                                                                                    Jamie McGuire - 
+                                                                                        Gyönyörű tévedés (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-128" tabindex="0"><span class="text">
+                                                                                                                                    Jamie McGuire - 
+                                                                                        Az éden (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-129" tabindex="0"><span class="text">
+                                                                                                                                    Rebecca Donovan - 
+                                                                                        Boldogító lélegzet (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-130" tabindex="0"><span class="text">
+                                                                                                                                    Rebecca Donovan - 
+                                                                                        Boldogító lélegzet (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-131" tabindex="0"><span class="text">
+                                                                                                                                    David Levithan, 
+                                                                                            John Green - 
+                                                                                        Will &amp; will (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-132" tabindex="0"><span class="text">
+                                                                                                                                    David Levithan, 
+                                                                                            John Green - 
+                                                                                        Will &amp; will (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-133" tabindex="0"><span class="text">
+                                                                                                                                    Chanda Hahn - 
+                                                                                        Tükröm, tükröm (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-134" tabindex="0"><span class="text">
+                                                                                                                                    David Levithan - 
+                                                                                        Hold me Closer - Engedj közelebb! (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-135" tabindex="0"><span class="text">
+                                                                                                                                    Elizabeth Richards - 
+                                                                                        Szárnyak (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-136" tabindex="0"><span class="text">
+                                                                                                                                    Alan Bradley - 
+                                                                                        Elég már az árnyakból! (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-137" tabindex="0"><span class="text">
+                                                                                                                                    Vonda N. McIntyre - 
+                                                                                        A nap és a hold dala (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-138" tabindex="0"><span class="text">
+                                                                                                                                    David Levithan - 
+                                                                                        Hold me Closer - Engedj közelebb! (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-139" tabindex="0"><span class="text">
+                                                                                                                                    Robyn Schneider - 
+                                                                                        Egy új élet reménye (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-140" tabindex="0"><span class="text">
+                                                                                                                                    Debora Geary - 
+                                                                                        Láthatatlan boszorkány (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-141" tabindex="0"><span class="text">
+                                                                                                                                    Eric Litwin - 
+                                                                                        Peti, a macska és a négy szökevény gomb (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-142" tabindex="0"><span class="text">
+                                                                                                                                    Alexandra Bracken - 
+                                                                                        Sötét játszmák (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-143" tabindex="0"><span class="text">
+                                                                                                                                    Amy Tintera - 
+                                                                                        Reboot - Lázadók hajnala (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-144" tabindex="0"><span class="text">
+                                                                                                                                    David Levithan - 
+                                                                                        Egy másik nap (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-145" tabindex="0"><span class="text">
+                                                                                                                                    Anna Banks - 
+                                                                                        Triton (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-146" tabindex="0"><span class="text">
+                                                                                                                                    Anna Banks - 
+                                                                                        Triton (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-147" tabindex="0"><span class="text">
+                                                                                                                                    Melissa Landers - 
+                                                                                        Elválasztva (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-148" tabindex="0"><span class="text">
+                                                                                                                                    Melissa Landers - 
+                                                                                        Elválasztva (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-149" tabindex="0"><span class="text">
+                                                                                                                                    Rebecca Donovan - 
+                                                                                        What If – Mi lenne, ha… (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-150" tabindex="0"><span class="text">
+                                                                                                                                    Jamie McGuire - 
+                                                                                        Gyönyörű megváltás (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-151" tabindex="0"><span class="text">
+                                                                                                                                    Jamie McGuire - 
+                                                                                        Gyönyörű megváltás (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-152" tabindex="0"><span class="text">
+                                                                                                                                    Janet Evanovich, 
+                                                                                            Lee Goldberg - 
+                                                                                        A nagy hajsza (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-153" tabindex="0"><span class="text">
+                                                                                                                                    Jeannette Walls - 
+                                                                                        Az üvegvár (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-154" tabindex="0"><span class="text">
+                                                                                                                                    Amy Kathleen Ryan - 
+                                                                                        Láng (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-155" tabindex="0"><span class="text">
+                                                                                                                                    Amy Ewing - 
+                                                                                        Az Ékkő (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-156" tabindex="0"><span class="text">
+                                                                                                                                    Amy Ewing - 
+                                                                                        Az Ékkő (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-157" tabindex="0"><span class="text">
+                                                                                                                                    Joseph Fink, 
+                                                                                            Jeffrey Cranor - 
+                                                                                        Üdvözöljük Night Vale-ben! (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-158" tabindex="0"><span class="text">
+                                                                                                                                    Mohamedou Ould Slahi - 
+                                                                                        Guantánamói napló (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-159" tabindex="0"><span class="text">
+                                                                                                                                    Clare Mackintosh - 
+                                                                                        I Let You Go – Az igazság pillanata (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-160" tabindex="0"><span class="text">
+                                                                                                                                    Abbi Glines - 
+                                                                                        A sorsom (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-161" tabindex="0"><span class="text">
+                                                                                                                                    Abbi Glines - 
+                                                                                        Te vagy nekem a jelen (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-162" tabindex="0"><span class="text">
+                                                                                                                                    Abbi Glines - 
+                                                                                        Te vagy nekem a jövő (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-163" tabindex="0"><span class="text">
+                                                                                                                                    Alan Bradley - 
+                                                                                        A halott madarak nem énekelnek (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-164" tabindex="0"><span class="text">
+                                                                                                                                    Christine D'Abo - 
+                                                                                        30 fülledt nap (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-165" tabindex="0"><span class="text">
+                                                                                                                                    Kristen Ciccarelli - 
+                                                                                        A hatalom tőre (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-166" tabindex="0"><span class="text">
+                                                                                                                                    Neil Patrick Harris - 
+                                                                                        A mágikus muzsikus (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-167" tabindex="0"><span class="text">
+                                                                                                                                    Terri Libenson - 
+                                                                                        Állhatatos Brianna (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-168" tabindex="0"><span class="text">
+                                                                                                                                    Laini Taylor - 
+                                                                                        A rémálmok múzsája - Muse of Nightmares (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-169" tabindex="0"><span class="text">
+                                                                                                                                    B. B. Alston - 
+                                                                                        Amari és a sötét erők (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-170" tabindex="0"><span class="text">
+                                                                                                                                    Katharine McGee - 
+                                                                                        American Royals - Felséges titkok (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-171" tabindex="0"><span class="text">
+                                                                                                                                    Katharine McGee - 
+                                                                                        American Royals - Királyi élet (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-172" tabindex="0"><span class="text">
+                                                                                                                                    Luca Di Fulvio - 
+                                                                                        Amikor az álmaink ránk találnak (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-173" tabindex="0"><span class="text">
+                                                                                                                                    Garth Nix - 
+                                                                                        Angyalmágus (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-174" tabindex="0"><span class="text">
+                                                                                                                                    P. M. Freestone - 
+                                                                                        Árnyékvirág - Füstkorona (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-175" tabindex="0"><span class="text">
+                                                                                                                                    P. M. Freestone - 
+                                                                                        Árnyékvirág - A sötétség illata (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-176" tabindex="0"><span class="text">
+                                                                                                                                    V. S. Alexander - 
+                                                                                        Az előkóstoló (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-177" tabindex="0"><span class="text">
+                                                                                                                                    Luca Di Fulvio - 
+                                                                                        Az örök város balladája (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-178" tabindex="0"><span class="text">
+                                                                                                                                    Lee Bacon - 
+                                                                                        Az utolsó ember (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-179" tabindex="0"><span class="text">
+                                                                                                                                    J.P. Delaney - 
+                                                                                        Believe Me - Játssz velem! (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-180" tabindex="0"><span class="text">
+                                                                                                                                    Amélie Wen Zhao - 
+                                                                                        Blood Heir - A vörös fenevad (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-181" tabindex="0"><span class="text">
+                                                                                                                                    Katherine Applegate - 
+                                                                                        Bob, a legbátrabb (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-182" tabindex="0"><span class="text">
+                                                                                                                                    Melissa Foster - 
+                                                                                        Call Her Mine – Végre az enyém! (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-183" tabindex="0"><span class="text">
+                                                                                                                                    Maurizio Campidelli (illusztrátor) - 
+                                                                                        Crush &amp; Color: Keanu Reeves (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-184" tabindex="0"><span class="text">
+                                                                                                                                    Maurizio Campidelli (illusztrátor) - 
+                                                                                        Crush &amp; Color: Tűzben edzett férfiak (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-185" tabindex="0"><span class="text">
+                                                                                                                                    Dominique Valente - 
+                                                                                        Csillagpaff - Mocsári Füzi és az elveszett kedd (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-186" tabindex="0"><span class="text">
+                                                                                                                                    Nina George - 
+                                                                                        Déli fények (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-187" tabindex="0"><span class="text">
+                                                                                                                                    J. Kenner - 
+                                                                                        Édes kis hazugság (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-188" tabindex="0"><span class="text">
+                                                                                                                                    Emma Steinkellner - 
+                                                                                        Egy kis boszi naplója (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-189" tabindex="0"><span class="text">
+                                                                                                                                    Gretchen McNeil - 
+                                                                                        Elégtétel (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-190" tabindex="0"><span class="text">
+                                                                                                                                    Gabriella Szaszkó - 
+                                                                                        Engedj el! (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-191" tabindex="0"><span class="text">
+                                                                                                                                    Adeyemi Tomi - 
+                                                                                        Erény és bosszú gyermekei (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-192" tabindex="0"><span class="text">
+                                                                                                                                    Giovanna Fletcher, 
+                                                                                            Tom Fletcher - 
+                                                                                        Eve of Man - Az elillanó káprázat (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-193" tabindex="0"><span class="text">
+                                                                                                                                    Jennifer E. Smith - 
+                                                                                        Feljegyzések a szerelemről (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-194" tabindex="0"><span class="text">
+                                                                                                                                    Katherine Applegate - 
+                                                                                        Fűzfanni (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-195" tabindex="0"><span class="text">
+                                                                                                                                    Lily Anderson - 
+                                                                                        Halhatatlan csajok klubja (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-196" tabindex="0"><span class="text">
+                                                                                                                                    Penelope Bloom - 
+                                                                                        Her Bush - Megöntözném (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-197" tabindex="0"><span class="text">
+                                                                                                                                    Penelope Bloom - 
+                                                                                        Her Cherry - Megnyalnám (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-198" tabindex="0"><span class="text">
+                                                                                                                                    Penelope Bloom - 
+                                                                                        Her Muffin - Felfalnám (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-199" tabindex="0"><span class="text">
+                                                                                                                                    Penelope Bloom - 
+                                                                                        Her Secret - Beavatnám (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-200" tabindex="0"><span class="text">
+                                                                                                                                    Penelope Bloom - 
+                                                                                        His Package - Megkapnám (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-201" tabindex="0"><span class="text">
+                                                                                                                                    Tamás Szabó - 
+                                                                                        Holdvíz (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-202" tabindex="0"><span class="text">
+                                                                                                                                    Henry Winkler, 
+                                                                                            Lin Oliver - 
+                                                                                        Rövid mese egy hosszú kutyáról (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-203" tabindex="0"><span class="text">
+                                                                                                                                    Katherine Applegate - 
+                                                                                        Ivan, az egyetlen (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-204" tabindex="0"><span class="text">
+                                                                                                                                    Romero R. M. - 
+                                                                                        Karolina és a krakkói Babakészítő (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-205" tabindex="0"><span class="text">
+                                                                                                                                    Stephanie Kate Strohm - 
+                                                                                        Katy Keene - Nyugtalan szívek (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-206" tabindex="0"><span class="text">
+                                                                                                                                    Aaron Reynolds - 
+                                                                                        Kipurcant kedvencek - Rex Dexter nyomoz (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-207" tabindex="0"><span class="text">
+                                                                                                                                    Jessica Koch - 
+                                                                                        Közel az óceánhoz (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-208" tabindex="0"><span class="text">
+                                                                                                                                    Adam Makos - 
+                                                                                        Lándzsahegy (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-209" tabindex="0"><span class="text">
+                                                                                                                                    Gretchen Berg - 
+                                                                                        Lány a vonalban (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-210" tabindex="0"><span class="text">
+                                                                                                                                    Matthew Norman - 
+                                                                                        Last Couple Standing – Nyerő páros (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-211" tabindex="0"><span class="text">
+                                                                                                                                    Karen M. McManus - 
+                                                                                        Lehull a lepel (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-212" tabindex="0"><span class="text">
+                                                                                                                                    Jenna Evans Welch - 
+                                                                                        Love &amp; Gelato – Firenzei nyár (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-213" tabindex="0"><span class="text">
+                                                                                                                                    Abigail Hing Wen - 
+                                                                                        Loveboat, Taipei (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-214" tabindex="0"><span class="text">
+                                                                                                                                    Emma Wunsch, 
+                                                                                            Jessika Von Innerebner - 
+                                                                                        A hercegnő és az egyáltalán NEM hercegnő (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-215" tabindex="0"><span class="text">
+                                                                                                                                    Jesse Andrews - 
+                                                                                        Manmon - Az álmokon túl (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-216" tabindex="0"><span class="text">
+                                                                                                                                    Jeremy Camp - 
+                                                                                        Még mindig hiszek - I Still Believe (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-217" tabindex="0"><span class="text">
+                                                                                                                                    Hendriks Jennifer, 
+                                                                                            Ted Caplan - 
+                                                                                        Mentsd meg Steve-et! (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-218" tabindex="0"><span class="text">
+                                                                                                                                    Bex Hogan - 
+                                                                                        Méreg (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-219" tabindex="0"><span class="text">
+                                                                                                                                    Jennifer E. Smith - 
+                                                                                        Milyen lesz a búcsú után? – Filmes borítóval (puhatáblás (filmes borító)) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-220" tabindex="0"><span class="text">
+                                                                                                                                    Jennifer E. Smith - 
+                                                                                        Milyen lesz a búcsú után? (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-221" tabindex="0"><span class="text">
+                                                                                                                                    Rachael Lippincott - 
+                                                                                        Mindvégig (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-222" tabindex="0"><span class="text">
+                                                                                                                                    Petra Mezei - 
+                                                                                        Mint a homokszemek (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-223" tabindex="0"><span class="text">
+                                                                                                                                    Somaiya Daud - 
+                                                                                        Mirage – Az oroszlánudvar (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-224" tabindex="0"><span class="text">
+                                                                                                                                    David Levithan - 
+                                                                                        Nap nap után - Filmes borítóval (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-225" tabindex="0"><span class="text">
+                                                                                                                                    Carina Bartsch - 
+                                                                                        Napsárga tavasz (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-226" tabindex="0"><span class="text">
+                                                                                                                                    Amber Garza - 
+                                                                                        Nem a te életed (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-227" tabindex="0"><span class="text">
+                                                                                                                                    Norton Kendra - 
+                                                                                        NEM színező – Egy lélekemelő utazás (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-228" tabindex="0"><span class="text">
+                                                                                                                                    Anh Do - 
+                                                                                        Nindzsa kölyök 1.  - Nindzsa lettem (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-229" tabindex="0"><span class="text">
+                                                                                                                                    Anh Do - 
+                                                                                        Nindzsa kölyök 2.  - Repülő nindzsa (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-230" tabindex="0"><span class="text">
+                                                                                                                                    Adriana Mather - 
+                                                                                        Öld meg Novembert! (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-231" tabindex="0"><span class="text">
+                                                                                                                                    J. R. Ward - 
+                                                                                        Perzselő vágy (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-232" tabindex="0"><span class="text">
+                                                                                                                                    Alexis Schaitkin - 
+                                                                                        Saint X (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-233" tabindex="0"><span class="text">
+                                                                                                                                    Adam Gidwitz - 
+                                                                                        Sárkányok szökésben (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-234" tabindex="0"><span class="text">
+                                                                                                                                    Laura Kneidl - 
+                                                                                        Someone New – Valaki új (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-235" tabindex="0"><span class="text">
+                                                                                                                                    Abbi Glines - 
+                                                                                        Never too far - Sosem elég (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-236" tabindex="0"><span class="text">
+                                                                                                                                    Alexandra Bracken - 
+                                                                                        Sötét elmék - Filmes borítóval (puhatáblás (filmes borító)) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-237" tabindex="0"><span class="text">
+                                                                                                                                    Alexandra Bracken - 
+                                                                                        Sötét idők (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-238" tabindex="0"><span class="text">
+                                                                                                                                    Yangsze Choo - 
+                                                                                        Szellemara (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-239" tabindex="0"><span class="text">
+                                                                                                                                    Daniela Krien - 
+                                                                                        Szerelem öt felvonásban (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-240" tabindex="0"><span class="text">
+                                                                                                                                    Brian Taylor, 
+                                                                                            Adam Kline - 
+                                                                                        Szökés Cilinderből (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-241" tabindex="0"><span class="text">
+                                                                                                                                    Adam Gidwitz - 
+                                                                                        Szörnyecske a hátizsákban (keménytáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-242" tabindex="0"><span class="text">
+                                                                                                                                    Abbi Glines - 
+                                                                                        Te vagy nekem a csábítás (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-243" tabindex="0"><span class="text">
+                                                                                                                                    Abbi Glines - 
+                                                                                        Te vagy nekem a rejtély (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-244" tabindex="0"><span class="text">
+                                                                                                                                    Abbi Glines - 
+                                                                                        Te vagy nekem a veszély (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-245" tabindex="0"><span class="text">
+                                                                                                                                    Charlotte Nicole Davis - 
+                                                                                        The Good Luck Girls - Eladó éjszakák (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-246" tabindex="0"><span class="text">
+                                                                                                                                    Kim Liggett - 
+                                                                                        The Grace Year - A tizenhatodik év (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-247" tabindex="0"><span class="text">
+                                                                                                                                    J.P. Delaney - 
+                                                                                        The Perfect Wife – A tökéletes feleség (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-248" tabindex="0"><span class="text">
+                                                                                                                                    Melissa Foster - 
+                                                                                        This is love - Végre szerelem (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-249" tabindex="0"><span class="text">
+                                                                                                                                    Keri Smith - 
+                                                                                        Több mint egy könyv (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-250" tabindex="0"><span class="text">
+                                                                                                                                    Rory Power - 
+                                                                                        Vadak szigete (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-251" tabindex="0"><span class="text">
+                                                                                                                                    Jamie McGuire - 
+                                                                                        Varázslatos szerelem (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-252" tabindex="0"><span class="text">
+                                                                                                                                    Gabriella Szaszkó - 
+                                                                                        Végtelen (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-253" tabindex="0"><span class="text">
+                                                                                                                                    Adeyemi Tomi - 
+                                                                                        Vér és csont gyermekei (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-254" tabindex="0"><span class="text">
+                                                                                                                                    Gabriella Szaszkó - 
+                                                                                        Vigyázz rám (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-255" tabindex="0"><span class="text">
+                                                                                                                                    Bex Hogan - 
+                                                                                        Vipera (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-256" tabindex="0"><span class="text">
+                                                                                                                                    Amanda Joy - 
+                                                                                        Vörös viadal (puhatáblás) - 0 Ft
+                                                                            </span></a></li><li><a role="option" class="dropdown-item" id="bs-select-1-257" tabindex="0"><span class="text">
+                                                                                                                                    Claire McGowan - 
+                                                                                        What you did – Kísért a múlt (puhatáblás) - 0 Ft
+                                                                            </span></a></li></ul>
